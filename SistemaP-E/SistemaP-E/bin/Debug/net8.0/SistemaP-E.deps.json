@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaP-E/1.0.0": {
+        "dependencies": {
+          "ClaseP": "1.0.0"
+        },
+        "runtime": {
+          "SistemaP-E.dll": {}
+        }
+      },
+      "ClaseP/1.0.0": {
+        "runtime": {
+          "ClaseP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaP-E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClaseP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

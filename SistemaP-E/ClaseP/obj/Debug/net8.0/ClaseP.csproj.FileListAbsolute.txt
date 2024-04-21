@@ -1,0 +1,12 @@
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\bin\Debug\net8.0\ClaseP.deps.json
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\bin\Debug\net8.0\ClaseP.dll
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\bin\Debug\net8.0\ClaseP.pdb
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.AssemblyInfoInputs.cache
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.AssemblyInfo.cs
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.csproj.CoreCompileInputs.cache
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.sourcelink.json
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.dll
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\refint\ClaseP.dll
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ClaseP.pdb
+C:\Users\joseg\source\repos\SistemaP-E\ClaseP\obj\Debug\net8.0\ref\ClaseP.dll
